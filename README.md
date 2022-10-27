@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Najiya Shukurzada</h1>
-- 🌱 I’m currently learning UI UX Design, C#
+
 
 - 📫 How to reach me **shukurzadanajiya@gmail.com**
 
