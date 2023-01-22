@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Najiya Shukurzada</h1>
 
-- 🌱 I’m currently learning **React.js, Typescript, MongoDb**
+- 🌱 I’m currently learning **React.js, Typescript, Node.js**
 
 - 📫 How to reach me **najiyashukurzada24@mail.ru**
 
