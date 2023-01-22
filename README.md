@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Najiya Shukurzada</h1>
-<h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
 - 🌱 I’m currently learning **React.js, Typescript, MongoDb**
 
